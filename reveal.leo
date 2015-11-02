@@ -1993,7 +1993,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h1&gt;心得和自評&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;我給自己70分,先承認自己對程式設計確實不是強項,也不是麼得感興趣,所以在同學一步步教導,配合著老師的影片,一步一步慢慢完成,非常感謝同學,也覺得自己不足處太多,將慢慢改進&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -2032,7 +2032,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;筆記&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;先登入自己的Github隨便創個帳號,然後複製網址,git clone他,去老師的網站,把該抓下來的全複製去自己的資料夾,別忘了要先cp 自己的資料夾,之後要git checkout gh-pages,才能全複製過去,打開Leo檔就是做功課的地方,之後該打的打一打,存檔後,繼續一年級教的,git add  git config  git commit這樣&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
